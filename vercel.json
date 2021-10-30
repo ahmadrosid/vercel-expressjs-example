@@ -3,5 +3,8 @@
     "env": {},
     "rewrites": [
         { "source": "/api/(.*)", "destination": "/api" }
+    ],
+    "redirects": [
+        { "source": "/", "destination": "/index.html" }
     ]
 }
