@@ -1,6 +1,7 @@
 body {
     font-family: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
     color: rgb(54, 54, 54);
+    background-color: rgb(247, 241, 236);
 }
 
 .container {
